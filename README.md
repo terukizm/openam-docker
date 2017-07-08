@@ -1,6 +1,6 @@
-# openam-docker
+# openam-docker-sample
 
-OpenAM with Docker
+OpenAM with Docker Sample
 
 * Apache Tomcat v8.0.45
   * (OpenAM 13.0.0 needs Tomcat v8.0.x)
